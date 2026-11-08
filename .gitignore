@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+water_refilling_station.db
+*.db-journal
+.pytest_cache/
